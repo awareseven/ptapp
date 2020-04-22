@@ -9,8 +9,8 @@ In dieser Pentest App können die folgenden Sicherheitslücken geübt werden:
 * Local-File-Inclusion (LFI)
 
 ## Installation
-Der leichteste Weg ptapp zu starten ist mit einem kostenlosen Account bei Heraku. 
-1. [Anmelden bei Heraku](https://signup.heroku.com/) und
+Der leichteste Weg ptapp zu starten ist mit einem kostenlosen Account bei Heroku. 
+1. [Anmelden bei Heroku](https://signup.heroku.com/) und
    [in den Account einloggen](https://id.heroku.com/login)
 2. Nun klicken wir auf den folgenden Button
    
