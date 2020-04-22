@@ -1,5 +1,5 @@
 {
     "require": {
-        "ext-pdo_sqlite": "*"
+        "ext-sqlite3": "*"
       }
 }
