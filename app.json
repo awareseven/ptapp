@@ -3,5 +3,10 @@
     "description": "Pentest App für das eLearning auf dem Security Campus",
     "repository": "hhttps://github.com/awareseven/ptapp",
     "logo": "https://aware7.de/wp-content/uploads/2019/12/cropped-logo-sevencast-32x32.jpg",
-    "keywords": ["php", "pentest", "xss", "sqli"]
+    "keywords": ["php", "pentest", "xss", "sqli"],
+    "buildpacks": [
+        {
+            "url": "heroku/php"
+          }
+    ]
   }
