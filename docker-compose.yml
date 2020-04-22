@@ -3,6 +3,6 @@ services:
     web:
         image: php:7.3-apache   
         volumes:
-            - "./php:/var/www/html/"
+            - "./:/var/www/html/"
         ports:
             - "8008:80"
